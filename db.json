@@ -1,16 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "test"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "token": {
     "access_token":"K-fhP_WR24cK1MZ8Hez_fg",
     "token_type":"bearer",
     "expires_in":3600
+  },
+  "filter": {
+    "jml": {
+      "joiner": {
+        "future": {
+          "1": ["01234", "09876"]
+        }
+      }
+    }
   }
 }
