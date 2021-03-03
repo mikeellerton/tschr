@@ -8,7 +8,7 @@
     "jml": {
       "joiner": {
         "future": {
-          "1": {
+          "test": {
             "employees": ["01234", "09876"]
           }
         }
